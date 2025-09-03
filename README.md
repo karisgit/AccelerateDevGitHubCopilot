@@ -1,4 +1,3 @@
-// ...existing code...
 # Library App
 
 ## Description
@@ -59,4 +58,4 @@ This project is provided under the MIT License. Add a LICENSE file at the reposi
 
 ---
 For quick navigation, open the solution: [AccelerateDevGitHubCopilot.sln](AccelerateDevGitHubCopilot.sln)
-//
+
